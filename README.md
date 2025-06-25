@@ -13,4 +13,4 @@
 #### Leetcode - https://leetcode.com/u/shahilasulthana/
 
 
-## "Keep your life simple. Laugh often. Love deeply. Be kind. Grow quietly." 🌱
+
