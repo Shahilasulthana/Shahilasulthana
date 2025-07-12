@@ -5,8 +5,14 @@
 - 💻 Exploring: **Full Stack Development**, **Cloud Computing**, and **LLMs**  
 - 👯 Love to **collaborate on projects**, hackathons & open-source  
 - 💬 Currently solving coding problems and building hands-on projects
+- 🚀 Take a stroll through my portfolio [**✨ Explore here ✨**](https://shahilapersonalportfolio-60043402587.development.catalystserverless.in/app/index.html) 
 
 
+<p align="center">
+  <a href="https://shahilapersonalportfolio-60043402587.development.catalystserverless.in/app/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-purple?style=for-the-badge&logo=github" alt="Portfolio Badge">
+  </a>
+</p>
 
 
 
