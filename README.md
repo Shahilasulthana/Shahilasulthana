@@ -90,7 +90,7 @@
 ---
 
 <p align="center">
-  <b>🌸🦋 “Let yourself evolve.” 🌿✨</b>
+  <b>🦋 “Let yourself evolve.” ✨</b>
 </p>
 
 
