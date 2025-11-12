@@ -4,13 +4,16 @@
 - 🔍 Passionate about solving **real-world problems** with **modern tech**  
 - 💻 Exploring: **Full Stack Development**, **Cloud Computing**, and **LLMs**  
 - 👯 Love to **collaborate on projects**, hackathons & open-source  
-- 💬 Currently solving coding problems and building hands-on projects
-- 🚀 Take a stroll through my portfolio [**✨ Explore here ✨**](https://shahilapersonalportfolio-60043402587.development.catalystserverless.in/app/index.html) 
-
+- 💬 Currently solving coding problems and building hands-on projects  
+- 🚀 Take a stroll through my portfolio and Linktree below 👇  
 
 <p align="center">
   <a href="https://shahilapersonalportfolio-60043402587.development.catalystserverless.in/app/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-purple?style=for-the-badge&logo=github" alt="Portfolio Badge">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-purple?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://lnk.bio/Shahila" target="_blank">
+    <img src="https://img.shields.io/badge/%20Visit%20My%20Linktree-purple?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge"/>
   </a>
 </p>
 
@@ -40,8 +43,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" title="Postman" width="50" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" title="TensorFlow" width="50" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" title="NumPy" width="50" height="50"/>
- 
-
 </p>
 
 
@@ -92,9 +93,3 @@
 <p align="center">
   <b>🦋 “Let yourself evolve.” ✨</b>
 </p>
-
-
-
-
-
-
