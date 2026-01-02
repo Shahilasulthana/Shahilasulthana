@@ -1,6 +1,6 @@
 # Hi I'm Shahila👋
 
-- **AI & Data Science** Undergraduate student @ Coimbatore Institute of Technology  
+- Undergraduate **AI & Data Science** student @ Coimbatore Institute of Technology  
 - Passionate about solving **real-world problems** with **modern tech**  
 - Currently exploring: **Database Management**, **Computer Vision**, and **Deep Learning**  
 - Love to **collaborate on projects**, hackathons & open-source  
