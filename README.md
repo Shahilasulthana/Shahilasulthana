@@ -43,6 +43,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" title="Postman" width="50" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" title="TensorFlow" width="50" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" title="NumPy" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" width="80" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="Computer Vision (OpenCV)" width="50" height="50"/>
 </p>
 
 
