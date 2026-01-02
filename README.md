@@ -1,11 +1,11 @@
 # Hi I'm Shahila👋
 
-- 🎓 AI & Data Science student @ Coimbatore Institute of Technology  
-- 🔍 Passionate about solving **real-world problems** with **modern tech**  
-- 💻 Exploring: **Full Stack Development**, **Cloud Computing**, and **LLMs**  
-- 👯 Love to **collaborate on projects**, hackathons & open-source  
-- 💬 Currently solving coding problems and building hands-on projects  
-- 🚀 Take a stroll through my portfolio and Linktree below 👇  
+- **AI & Data Science** Undergraduate student @ Coimbatore Institute of Technology  
+- Passionate about solving **real-world problems** with **modern tech**  
+- Currently exploring: **Database Management**, **Computer Vision**, and **Deep Learning**  
+- Love to **collaborate on projects**, hackathons & open-source  
+- Currently solving coding problems and building hands-on projects  
+- Take a stroll through my portfolio and Linktree below 👇  
 
 <p align="center">
   <a href="https://shahilapersonalportfolio-60043402587.development.catalystserverless.in/app/index.html" target="_blank">
