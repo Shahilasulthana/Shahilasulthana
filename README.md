@@ -2,7 +2,7 @@
 
 - Undergraduate **AI & Data Science** student @ Coimbatore Institute of Technology  
 - Passionate about solving **real-world problems** with **modern tech**  
-- Currently exploring: **Database Management**, **Computer Vision**, and **Deep Learning**  
+- Currently exploring: **Database Management**,[Computer Vision](https://github.com/Shahilasulthana/Computer-Vision), and [Deep Learning](https://github.com/Shahilasulthana/DeepLearning) 
 - Love to **collaborate on projects**, hackathons & open-source  
 - Currently solving coding problems and building hands-on projects  
 - Take a stroll through my portfolio and Linktree below 👇  
