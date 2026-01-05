@@ -1,11 +1,11 @@
 # Hi I'm Shahila👋
 
-- Undergraduate **AI & Data Science** student @ Coimbatore Institute of Technology  
+- Undergraduate **AI & Data Science** student @ [Coimbatore Institute of Technology](cit.edu.in)  
 - Passionate about solving **real-world problems** with **modern tech**  
 - Currently exploring: **Database Management**,[Computer Vision](https://github.com/Shahilasulthana/Computer-Vision), and [Deep Learning](https://github.com/Shahilasulthana/DeepLearning) 
 - Love to **collaborate on projects**, hackathons & open-source  
-- Currently solving coding problems and building hands-on projects  
-- Take a stroll through my portfolio and Linktree below 👇  
+- Currently solving [coding problems](https://github.com/Shahilasulthana/Leetcode) and building hands-on projects  
+- Take a stroll through my [portfolio](https://shahilapersonalportfolio-60043402587.development.catalystserverless.in/app/index.html) and [Linktree](https://lnk.bio/Shahila)
 
 <p align="center">
   <a href="https://shahilapersonalportfolio-60043402587.development.catalystserverless.in/app/index.html" target="_blank">
