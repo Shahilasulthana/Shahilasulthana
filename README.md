@@ -1,6 +1,6 @@
 # Hi I'm Shahila👋
 
-- Undergraduate **AI & Data Science** student @ [Coimbatore Institute of Technology](cit.edu.in)  
+- Undergraduate [AI & Data Science](https://www.linkedin.com/company/b-tech-artificial-intelligence-data-science/posts/?feedView=all) student @ [Coimbatore Institute of Technology](https://cit.edu.in/)  
 - Passionate about solving **real-world problems** with **modern tech**  
 - Currently exploring: **Database Management**,[Computer Vision](https://github.com/Shahilasulthana/Computer-Vision), and [Deep Learning](https://github.com/Shahilasulthana/DeepLearning) 
 - Love to **collaborate on projects**, hackathons & open-source  
