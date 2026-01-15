@@ -19,7 +19,7 @@
 
 
 
-# 💻 Things I Know
+# Things I Know
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="50" height="50"/>&nbsp;
@@ -48,7 +48,7 @@
 </p>
 
 
-# 🌐 Reach Out & Say Hello
+# Reach me out through !!
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/shahila-sulthana-0b3b662b3/" target="_blank" title="LinkedIn">
